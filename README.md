@@ -11,14 +11,3 @@ Retail Analytics
 # Domain
 Retail Analytics in the Electronics Industry
 
-# Problem Statement
-As part of the Global Electronics data analytics team, our task is to perform an in-depth Exploratory Data Analysis (EDA) on the company’s datasets. The goal is to identify key insights that will help improve marketing strategies, inventory management, sales forecasting, and overall customer satisfaction, ultimately driving business growth.
-
-# Datasets
-The project utilizes multiple datasets provided by Global Electronics, including:
-
-Customer Data
-Product Data
-Sales Data
-Store Data
-Currency Exchange Rates
